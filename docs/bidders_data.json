@@ -1,0 +1,46 @@
+[{
+  "id": 1,
+  "move" :  true,
+  "title": "ООО Тузики",
+  "isSetEvents": true,
+  "prodTime": 80,
+  "warrantyMount": 24,
+  "paymentTerm": 30,
+  "prodCost": 3700000,
+  "prodCostSale": 25000,
+  "actions": ""
+},{
+  "id": 2,
+  "move" :  false,
+  "title": "ИП Луначарский",
+  "isSetEvents": false,
+  "prodTime": 90,
+  "warrantyMount": 24,
+  "paymentTerm": 100,
+  "prodCost": 3200000,
+  "prodCostSale": 25000,
+  "actions": ""
+},{
+  "id": 3,
+  "move" :  false,
+  "title": "ОАО Черное Золото",
+  "isSetEvents": true,
+  "prodTime": 75,
+  "warrantyMount": 22,
+  "paymentTerm": 60,
+  "prodCost": 2800000,
+  "prodCostSale": 25000,
+  "actions": ""
+},{
+  "id": 4,
+  "move" :  false,
+  "title": "ЗАО \"РОГА И КОПЫТА\"",
+  "isSetEvents": false,
+  "prodTime": 120,
+  "warrantyMount": 36,
+  "paymentTerm": 50,
+  "prodCost": 2500000,
+  "prodCostSale": 25000,
+  "actions": ""
+}
+]
